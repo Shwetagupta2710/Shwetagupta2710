@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shwetagupta2710
+- 👋 Hi, I’m Shweta Gupta
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on projects.
