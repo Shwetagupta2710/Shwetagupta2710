@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/shwetas_2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shwetas_2710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shweta-gupta-80b2b125a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-gupta-80b2b125a" height="30" width="40" /></a>
+<a href="https://instagram.com/shweta_gupta_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shweta_gupta_27" height="30" width="40" /></a>
 <a href="https://medium.com/@shwetaguptas2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shwetaguptas2710" height="30" width="40" /></a>
 </p>
 
