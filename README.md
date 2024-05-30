@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, WebD**
+- 💬 Ask me about **Java, Python, WebD**
 
 - 📫 How to reach me **shwetaguptas2710@gmail.com**
 
