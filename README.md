@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetagupta2710&label=Profile%20views&color=0e75b6&style=flat" alt="shwetagupta2710" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and AI/ML.**
 
-- 💬 Ask me about **Java, Python, WebD**
+- 💬 Ask me about **Java, Python, WebD, AI/ML**
 
 - 📫 How to reach me **shwetaguptas2710@gmail.com**
 
