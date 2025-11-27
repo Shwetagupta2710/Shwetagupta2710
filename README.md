@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shwetagupta2710&theme=" alt="Shwetagupta2710" /></a> </p>
 
 
-
 - 🌱 I’m currently learning **MERN and Nextjs**
 - 💬 Ask me about **Java, WebD**
 - 📫 How to reach me **shwetaguptas2710@gmail.com**
