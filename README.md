@@ -3,10 +3,10 @@
 <h3 align="center">Aspiring Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shwetagupta2710&label=Profile%20views&color=0e75b6&style=flat" alt="Shwetagupta2710" /> </p
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shwetagupta2710&theme=" alt="Shwetagupta2710" /></a> </p>
-- 🌱 I’m currently learning **MERN and Nextjs**
-- 💬 Ask me about **Java, WebD**
-- 📫 How to reach me **shwetaguptas2710@gmail.com**
-- ⚡ Fun fact **I like twitter more than linkedin**
+- 🌱 I’m currently learning MERN and Nextjs
+- 💬 Ask me about Java, WebD
+- 📫 How to reach me shwetaguptas2710@gmail.com
+- ⚡ Fun fact I like twitter more than linkedin
 <div> <a href="https://twitter.com/@Shay_Slay_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/shwetagupta2710" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Shwetagupta2710" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
