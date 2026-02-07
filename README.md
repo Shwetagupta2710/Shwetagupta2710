@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Gupta</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-
 <img height="auto" src="https://komarev.com/ghpvc/?username=Shwetagupta2710&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
